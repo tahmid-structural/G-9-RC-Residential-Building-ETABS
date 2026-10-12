@@ -57,7 +57,7 @@ G+9-RC-Residential-Building-ETABS/
 ├── 03_Design_Checks/
 │   └── Exported analysis and design tables
 ├── 04_Project_Report/
-│   └── G+9_RC_Residential_Building_Report.docx
+│   └── G+9_RC_Residential_Building_Report.pdf
 └── README.md
 ```
 
